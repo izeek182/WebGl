@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "F:/Git/WebGl/index.html",
+            "url": "${workspaceFolder}/index.html",
             "webRoot": "${workspaceFolder}",
             "runtimeArgs": ["--disable-web-security"]
         }
